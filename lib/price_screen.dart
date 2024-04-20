@@ -151,5 +151,3 @@ class CryptoCard extends StatelessWidget {
     );
   }
 }
-
-// API Key: C862059D-3D5B-4759-B48D-D281947E3127
